@@ -1,1 +1,1 @@
-Showcasing the project [`create-next-app`](https://ithelper-three.vercel.app/).
+Showcasing the project [`click`](https://ithelper-three.vercel.app/).
